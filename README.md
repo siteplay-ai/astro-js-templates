@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://jstemplateshub.com?ref=github-next-js-templates-logo">
-<img width="50" height="50" alt="jstemplateshub-logo" src="https://github.com/user-attachments/assets/96928c20-04b3-4bbc-9ba4-a3a5cda9a7fb" /> 
+  <a href="https://siteplay.ai?ref=github-next-js-templates-logo">
+<img width="50" height="50" alt="siteplay-logo" src="https://avatars.githubusercontent.com/u/229278305?s=48&v=4" /> 
 </a>
 </p>
 
 # Astro JS Templates By Js Templates Hub!
 
 A collection of responsive, customizable, and SEO-friendly templates built with **Astro** and **Tailwind CSS**.  
-Designed to help developers, startups, and entrepreneurs launch websites faster with clean, production-ready code in minutes using our user-friendly [website builder](https://jstemplateshub.com/builder/#/demo?template=wavify). Explore more [customizable website templates](https://jstemplateshub.com/templates)
+Designed to help developers, startups, and entrepreneurs launch websites faster with clean, production-ready code in minutes using our user-friendly [website builder](https://siteplay.ai/app/#/login?template=wavify). Explore more [customizable website templates](https://siteplay.ai/templates)
 
 You can edit this template content by simply modifying the [data.json file](https://github.com/js-templates-hub/astro-js-templates/blob/main/templates/wavify/src/data.json). Use any AI models/platforms to generate or transform the `data.json` file.
 
